@@ -1,0 +1,1 @@
+avrdude -p m324pa -P usb -c avrispmkII -F -U flash:w:ece177.hex 
